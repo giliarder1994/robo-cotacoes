@@ -69,4 +69,3 @@ dados = buscar_cotacoes()
 if dados:
     mostrar_cotacoes(dados)
     verificar_alerta(dados)
-    
